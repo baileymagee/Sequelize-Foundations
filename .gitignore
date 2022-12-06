@@ -1,3 +1,5 @@
 server/db/*.db
 server/*.db
 server/.envnode_modules
+node_modules
+
